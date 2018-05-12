@@ -1,0 +1,27 @@
+_repo: Memoria-historica-sobre-as-ilhas-dos-A-oresnova-constitui--o_42762
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Costa Chaves E Mello, Francisco Affonso Da
+    alias: Mello, Francisco Affonso Da Costa Chaves E
+    gutenberg_agent_id: '41619'
+    url: http://www.gutenberg.org/2009/agents/41619
+description: ''
+gutenberg_issued: '2013-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42762'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Azores'
+title: "Memoria historica sobre as ilhas dos Açores\r\ncomo parte componente da Monarchia\
+  \ Portugueza, com ideias politicas relativas à reforma do Governo Portuguez, e sua\
+  \ nova constituição"
+url: http://www.gutenberg.org/ebooks/42762

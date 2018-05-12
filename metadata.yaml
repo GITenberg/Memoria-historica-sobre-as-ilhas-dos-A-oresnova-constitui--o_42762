@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41619'
     url: http://www.gutenberg.org/2009/agents/41619
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42762#Memoria-historica-sobre-as-ilhas-dos-A-oresnova-constitui--o
 gutenberg_issued: '2013-05-21'
 gutenberg_type: Text
 identifiers:
